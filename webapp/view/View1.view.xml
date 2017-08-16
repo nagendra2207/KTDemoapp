@@ -5,7 +5,7 @@
 				<content>
 					<VBox direction="Column" id="vbox0" justifyContent="Center" width="100%">
 						<items>
-							<Label id="label3" textAlign="Center" width="100%" text="Articles Changed Today"/>
+							<Label id="label3" textAlign="Center" width="100%" text="Articles Changed Today....."/>
 						</items>
 					</VBox>
 					<Table id="table0" items="{/Entity1_Set}" noDataText="Drop column list items here and columns in the area above">
