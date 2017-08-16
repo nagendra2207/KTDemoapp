@@ -1,0 +1,37 @@
+[{
+	"ArticleID": "42N2046603011425",
+	"StatusType": "Delivery Status Article",
+	"StatusCode": "Manifested",
+	"StatusDate": "2017-08-15 23:58:59",
+	"__metadata": {
+		"uri": "Entity1_Set('42N2046603011425')",
+		"type": "Demo.Entity1"
+	}
+}, {
+	"ArticleID": "4NK000386001000600201",
+	"StatusType": "Delivery Status Article",
+	"StatusCode": "Delivered",
+	"StatusDate": "2017-08-15 23:57:59",
+	"__metadata": {
+		"uri": "Entity1_Set('4NK000386001000600201')",
+		"type": "Demo.Entity1"
+	}
+}, {
+	"ArticleID": "4NK000386002000600208",
+	"StatusType": "Delivery Status Article",
+	"StatusCode": "Awaiting Collection",
+	"StatusDate": "2017-08-15 23:56:59",
+	"__metadata": {
+		"uri": "Entity1_Set('4NK000386002000600208')",
+		"type": "Demo.Entity1"
+	}
+}, {
+	"ArticleID": "4NK000386003000600205",
+	"StatusType": "Delivery Status Article",
+	"StatusCode": "Despatched",
+	"StatusDate": "2017-08-15 23:59:59",
+	"__metadata": {
+		"uri": "Entity1_Set('4NK000386003000600205')",
+		"type": "Demo.Entity1"
+	}
+}]
